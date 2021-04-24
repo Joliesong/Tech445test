@@ -2,7 +2,7 @@
 
 Maintainer: [Will Killian](https://www.github.com/willkill07)
 
-### How to use
+### How to use this thing
 
 The `project-templates` directory contains folders for appropriate languages/platforms
 
